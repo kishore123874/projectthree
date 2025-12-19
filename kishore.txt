@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 hi kishore kumar reddy
 hcl
 hcl
 hcl
 HCL
+=======
+this is kishore kumar reddy
+hcl
+hcl
+hcl
+hcl
+>>>>>>> master
 
