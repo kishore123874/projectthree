@@ -1,0 +1,9 @@
+<html>
+
+<head></head>
+<button id="mybtn">click me</button>
+<input type="text"/>
+<p id ="demo1">this is static text message</p>
+<p id="demo2">hello!</p>
+
+</html>
