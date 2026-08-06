@@ -1,4 +1,5 @@
 a=9
 b=6
 c=8
-print(a+b+c)
+d=7
+print(a+b+c+d)
